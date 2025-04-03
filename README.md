@@ -1,2 +1,2 @@
 # let-s-kill-this-computer
-adeadli simple file bat
+a deadly simple file bat
